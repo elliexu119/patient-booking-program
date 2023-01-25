@@ -1,0 +1,71 @@
+17-07-2018
+
+Time: 07:30 - 08:10
+Technician: SUSHMA
+Avaliable ultrasound types: pelvic tv abd 18+ obs
+---------------------------------------
+Time: 08:10 - 08:30
+Technician: SUSHMA
+Avaliable ultrasound types: thyroid abd
+---------------------------------------
+Time: 08:30 - 09:00
+Technician: SUSHMA
+Avaliable ultrasound types: abd
+---------------------------------------
+Time: 09:00 - 09:30
+Technician: SUSHMA
+Avaliable ultrasound types: ips abd pelvic tv
+---------------------------------------
+Time: 09:30 - 10:10
+Technician: SUSHMA
+Avaliable ultrasound types: abd pelvic tv 18+ obs
+---------------------------------------
+Time: 10:10 - 10:30
+Technician: SUSHMA
+Avaliable ultrasound types: thyroid abd
+---------------------------------------
+Time: 10:30 - 11:00
+Technician: SUSHMA
+Avaliable ultrasound types: ips early obs pelvic tv
+---------------------------------------
+Time: 11:00 - 11:20
+Technician: SUSHMA
+Avaliable ultrasound types: urgent
+---------------------------------------
+Time: 11:20 - 11:40
+Technician: SUSHMA
+Avaliable ultrasound types: abd pelvic tv 18+ obs
+---------------------------------------
+Time: 11:40 - 12:30
+Technician: SUSHMA
+Avaliable ultrasound types: thyroid abd
+---------------------------------------
+Time: 12:30 - 13:00
+Technician: SUSHMA
+Avaliable ultrasound types: ips pelvic tv early obs
+---------------------------------------
+Time: 13:00 - 13:40
+Technician: SUSHMA
+Avaliable ultrasound types: 18+ obs
+---------------------------------------
+Time: 13:40 - 14:00
+Technician: SUSHMA
+Avaliable ultrasound types: thyroid lump breast
+---------------------------------------
+Time: 14:00 - 14:30
+Technician: SUSHMA
+Avaliable ultrasound types: ips pelvic tv early obs
+---------------------------------------
+Time: 14:30 - 14:50
+Technician: SUSHMA
+Avaliable ultrasound types: thyroid lump breast
+---------------------------------------
+Time: 14:50 - 15:30
+Technician: SUSHMA
+Avaliable ultrasound types: pelvic tv early obs
+---------------------------------------
+Time: 15:30 - 16:00
+Technician: SUSHMA
+Avaliable ultrasound types: early obs pelvic tv
+---------------------------------------
+END
